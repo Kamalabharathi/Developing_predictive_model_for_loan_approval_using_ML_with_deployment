@@ -1,0 +1,15 @@
+{
+    "Loan_ID": "not null",
+    "Gender": "not null",
+    "Married": "not null",
+    "Dependents": "null",
+    "Education": "not null",
+    "Self_Employed": "not null",
+    "ApplicantIncome": "not null",
+    "CoapplicantIncome": "not null",
+    "LoanAmount": "null",
+    "Loan_Amount_Term": "null",
+    "Credit_History": "null",
+    "Property_Area": "not null",
+    "Loan_Status": "not null"
+}
